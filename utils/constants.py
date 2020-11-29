@@ -6,7 +6,7 @@ ABLE_TO_BAN = ('bot admin', )
 ABLE_TO_KICK = ('bot admin', 'moderator')
 BOT_MODS = ('DM', 'Dragonspeaker', 'Bot Admin')
 DMS = ('dm', 'trial dm', 'dungeon master', 'quest master', 'jr.quest runner')
-APPROVAL_ROLES = ('dm', 'lord of the sheet', 'approval team')
+APPROVAL_ROLES = ('dm', 'lord of the sheet', 'approval team', 'quest master', 'dungeon master')
 ROLES_CHANNEL = "<#772326263527309322>"
 AVRAE_CHANNEL = "<#772364979898417162>"
 
